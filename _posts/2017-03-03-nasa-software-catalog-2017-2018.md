@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: "NASA released its 2017-2018 software catalog"
 keywords: "NASA, open source, software, programs"
