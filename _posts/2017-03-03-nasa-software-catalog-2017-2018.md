@@ -3,6 +3,7 @@ layout: post
 title: NASA released its 2017-2018 software catalog
 keywords: 'NASA, open source, software, programs'
 published: true
+comments: true
 ---
 
 [NASA just released its software catalog](https://www.nasa.gov/press-release/nasa-releases-software-catalog-granting-the-public-free-access-to-technologies-for) for the 2017-2018 period.
