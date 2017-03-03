@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: "YikYak moved to Google Cloud from AWS"
 keywords: "YikYak, Google Cloud, AWS"
