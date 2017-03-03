@@ -16,8 +16,8 @@
 title: a cloud computing blog
 author: outcompute
 description: Cloud computing, DevOps & cloud focussed development bits and pieces
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://outcompute.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://outcompute.github.io/" # the subpath of your site, e.g. /blog
+url: "https://outcompute.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
