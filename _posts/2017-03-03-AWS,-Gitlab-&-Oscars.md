@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "The AWS-S3 & Gitlab outages, & Oscars too"
+keywords: "AWS, S3, Gitlab, Oscars, Netflix, chaosmonkey, principles of chaos engineering, checkyourbackups"
 ---
 
 There was a [debilitating S3 outage](https://twitter.com/awscloud/status/836656554212372480) around March 1, and now [AWS has put out a document](https://aws.amazon.com/message/41926/) on what might have gone wrong.
